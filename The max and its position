@@ -21,6 +21,6 @@ int main(int argc, char *argv[]) {
 			pos=i;
 		}
 	}
-	printf("Voila Le Max :%.f Et la Position de Max Est: %.d position",max , pos);
+	printf("Voila Le Max :%.f Et la Position de Max Est: %.d ",max , pos);
 	return 0;
 }
